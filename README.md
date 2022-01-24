@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/img/sigma-l.PNG">
+</p>
+
 # schwarzschild-double
 Partial absorption cross section of Schwarzschild BH calculation using [GSL](https://www.gnu.org/software/gsl/) and [glib](https://docs.gtk.org/glib/).
 
