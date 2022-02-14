@@ -28,4 +28,4 @@ If you want to compile the code you'll need the [GSL](https://www.gnu.org/softwa
 To install the packages I've used [pacman](https://archlinux.org/pacman/pacman.8.html). To compile you just need a c99 compiler. I've used [CodeBlocks](https://www.codeblocks.org/) as IDE.
 
 # Documentation
-For  more information you can consult the pdf's in the *doc* folder (English version it's just an automatic translation)
+For  more information you can consult the pdf's in the *doc* folder (English version is just an automatic translation)
